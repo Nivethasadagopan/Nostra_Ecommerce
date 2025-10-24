@@ -3,7 +3,7 @@
 A responsive front-end fashion e-commerce site built with HTML, CSS, JavaScript, and Tailwind CSS. This project replicates a modern retail interface with product filtering, search functionality, and branded styling—ideal for portfolio presentation and recruiter visibility.
 
 ## 🔗 Live Demo
-[View Site](https://your-deployment-link.com)
+[[View Site](https://your-deployment-link.com)](https://nivethasadagopan.github.io/Nostra_Ecommerce/)
 
 ## ✨ Features
 
