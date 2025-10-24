@@ -32,3 +32,19 @@ Nostra-Ecommerce/
 │ └── images/ 
 └── README.md
 
+
+📷Screenshots:
+HomePage:
+<img width="1920" height="4508" alt="image" src="https://github.com/user-attachments/assets/240a78e2-b616-4991-9195-b8ae4f8a4806" />
+
+Collections Page:
+<img width="1920" height="2830" alt="image" src="https://github.com/user-attachments/assets/0aea4363-6695-49a2-94ce-3663e59cba33" />
+
+Contact us Page:
+<img width="1920" height="1750" alt="image" src="https://github.com/user-attachments/assets/7566cdc7-db9d-4ba1-bab0-d24ef755729b" />
+
+
+
+
+
+
